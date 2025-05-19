@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class CheckingAccount {
+public class CheckingAccount extends BankAccount {
+    double limit; //Limite de compte courant
 }

@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class BankAccount {
+public class BankAccount {
+    String account;
+    double balance;
 }

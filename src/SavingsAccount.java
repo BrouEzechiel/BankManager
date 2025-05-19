@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class SavingsAccount {
+public class SavingsAccount extends BankAccount{
+    double limit; //Limite de compte epargne
 }

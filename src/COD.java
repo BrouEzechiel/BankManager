@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class COD {
+public class COD extends BankAccount{
+    double limit; // Limite d'un COD
 }
